@@ -3,6 +3,7 @@ telethon
 aiogram==2.25.1
 aiohttp_jinja2==1.5
 Jinja2==3.1.2
+aiohttp
 TgCrypto
 psutil
 loguru
